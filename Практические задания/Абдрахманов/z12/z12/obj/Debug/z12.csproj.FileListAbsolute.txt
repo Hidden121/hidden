@@ -1,0 +1,27 @@
+D:\Документы\study2\Рабочий стол\Абдрахманов\z12\z12\bin\Debug\z12.exe.config
+D:\Документы\study2\Рабочий стол\Абдрахманов\z12\z12\bin\Debug\z12.exe
+D:\Документы\study2\Рабочий стол\Абдрахманов\z12\z12\bin\Debug\z12.pdb
+D:\Документы\study2\Рабочий стол\Абдрахманов\z12\z12\obj\Debug\z12.csprojResolveAssemblyReference.cache
+D:\Документы\study2\Рабочий стол\Абдрахманов\z12\z12\obj\Debug\z12.Form1.resources
+D:\Документы\study2\Рабочий стол\Абдрахманов\z12\z12\obj\Debug\z12.Properties.Resources.resources
+D:\Документы\study2\Рабочий стол\Абдрахманов\z12\z12\obj\Debug\z12.csproj.GenerateResource.Cache
+D:\Документы\study2\Рабочий стол\Абдрахманов\z12\z12\obj\Debug\z12.exe
+D:\Документы\study2\Рабочий стол\Абдрахманов\z12\z12\obj\Debug\z12.pdb
+D:\Документы\study2\Рабочий стол\Абдрахманов\z12\z12\obj\Debug\z12.Form2.resources
+C:\Users\Stas\Desktop\PRVS\Абдрахманов\z12\z12\bin\Debug\z12.exe.config
+C:\Users\Stas\Desktop\PRVS\Абдрахманов\z12\z12\obj\Debug\z12.exe
+C:\Users\Stas\Desktop\PRVS\Абдрахманов\z12\z12\obj\Debug\z12.pdb
+C:\Users\Stas\Desktop\PRVS\Абдрахманов\z12\z12\obj\Debug\z12.csprojResolveAssemblyReference.cache
+C:\Users\Stas\Desktop\PRVS\Абдрахманов\z12\z12\obj\Debug\z12.Form1.resources
+C:\Users\Stas\Desktop\PRVS\Абдрахманов\z12\z12\obj\Debug\z12.Form2.resources
+C:\Users\Stas\Desktop\PRVS\Абдрахманов\z12\z12\obj\Debug\z12.Form3.resources
+C:\Users\Stas\Desktop\PRVS\Абдрахманов\z12\z12\obj\Debug\z12.Properties.Resources.resources
+C:\Users\Stas\Desktop\PRVS\Абдрахманов\z12\z12\obj\Debug\z12.csproj.GenerateResource.Cache
+C:\Users\Stas\Desktop\PRVS\Абдрахманов\z12\z12\bin\Debug\z12.exe
+C:\Users\Stas\Desktop\PRVS\Абдрахманов\z12\z12\bin\Debug\z12.pdb
+E:\PRVS\Абдрахманов\z12\z12\bin\Debug\z12.exe.config
+E:\PRVS\Абдрахманов\z12\z12\obj\Debug\z12.exe
+E:\PRVS\Абдрахманов\z12\z12\obj\Debug\z12.pdb
+D:\Zadanie PP\Абдрахманов\z12\z12\bin\Debug\z12.exe.config
+D:\Zadanie PP\Абдрахманов\z12\z12\obj\Debug\z12.exe
+D:\Zadanie PP\Абдрахманов\z12\z12\obj\Debug\z12.pdb

@@ -1,0 +1,33 @@
+F:\Абдрахманов\z10\z10\bin\Debug\z10.exe.config
+F:\Абдрахманов\z10\z10\bin\Debug\z10.exe
+F:\Абдрахманов\z10\z10\bin\Debug\z10.pdb
+F:\Абдрахманов\z10\z10\obj\Debug\z10.csprojResolveAssemblyReference.cache
+F:\Абдрахманов\z10\z10\obj\Debug\z10.Form1.resources
+F:\Абдрахманов\z10\z10\obj\Debug\z10.Properties.Resources.resources
+F:\Абдрахманов\z10\z10\obj\Debug\z10.csproj.GenerateResource.Cache
+F:\Абдрахманов\z10\z10\obj\Debug\z10.exe
+F:\Абдрахманов\z10\z10\obj\Debug\z10.pdb
+C:\Users\Stas\Desktop\PRVS\Абдрахманов\z10\z10\bin\Debug\z10.exe.config
+C:\Users\Stas\Desktop\PRVS\Абдрахманов\z10\z10\obj\Debug\z10.exe
+C:\Users\Stas\Desktop\PRVS\Абдрахманов\z10\z10\obj\Debug\z10.csprojResolveAssemblyReference.cache
+C:\Users\Stas\Desktop\PRVS\Абдрахманов\z10\z10\obj\Debug\z10.Form1.resources
+C:\Users\Stas\Desktop\PRVS\Абдрахманов\z10\z10\obj\Debug\z10.Properties.Resources.resources
+C:\Users\Stas\Desktop\PRVS\Абдрахманов\z10\z10\obj\Debug\z10.csproj.GenerateResource.Cache
+C:\Users\Stas\Desktop\PRVS\Абдрахманов\z10\z10\bin\Debug\z10.exe
+C:\Users\Stas\Desktop\PRVS\Абдрахманов\z10\z10\bin\Debug\z10.pdb
+C:\Users\Stas\Desktop\PRVS\Абдрахманов\z10\z10\obj\Debug\z10.pdb
+E:\Zadanie PP\Абдрахманов\z10\z10\bin\Debug\z10.exe.config
+E:\Zadanie PP\Абдрахманов\z10\z10\obj\Debug\z10.exe
+E:\Zadanie PP\Абдрахманов\z10\z10\obj\Debug\z10.pdb
+F:\Zadanie PP\Абдрахманов\z10\z10\bin\Debug\z10.exe.config
+F:\Zadanie PP\Абдрахманов\z10\z10\obj\Debug\z10.exe
+F:\Zadanie PP\Абдрахманов\z10\z10\obj\Debug\z10.pdb
+E:\Zadanie PP\Абдрахманов\z10\z10\bin\Debug\z10.exe
+E:\Zadanie PP\Абдрахманов\z10\z10\bin\Debug\z10.pdb
+E:\Zadanie PP\Абдрахманов\z10\z10\obj\Debug\z10.csprojResolveAssemblyReference.cache
+E:\Zadanie PP\Абдрахманов\z10\z10\obj\Debug\z10.Form1.resources
+E:\Zadanie PP\Абдрахманов\z10\z10\obj\Debug\z10.Properties.Resources.resources
+E:\Zadanie PP\Абдрахманов\z10\z10\obj\Debug\z10.csproj.GenerateResource.Cache
+D:\Zadanie PP\Абдрахманов\z10\z10\bin\Debug\z10.exe.config
+D:\Zadanie PP\Абдрахманов\z10\z10\obj\Debug\z10.exe
+D:\Zadanie PP\Абдрахманов\z10\z10\obj\Debug\z10.pdb

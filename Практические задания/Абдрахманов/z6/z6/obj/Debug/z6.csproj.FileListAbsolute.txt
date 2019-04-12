@@ -1,0 +1,43 @@
+D:\Абдрахманов\z6\z6\bin\Debug\z6.exe.config
+D:\Абдрахманов\z6\z6\bin\Debug\z6.exe
+D:\Абдрахманов\z6\z6\bin\Debug\z6.pdb
+D:\Абдрахманов\z6\z6\obj\Debug\z6.csprojResolveAssemblyReference.cache
+D:\Абдрахманов\z6\z6\obj\Debug\z6.Form1.resources
+D:\Абдрахманов\z6\z6\obj\Debug\z6.Properties.Resources.resources
+D:\Абдрахманов\z6\z6\obj\Debug\z6.csproj.GenerateResource.Cache
+D:\Абдрахманов\z6\z6\obj\Debug\z6.exe
+D:\Абдрахманов\z6\z6\obj\Debug\z6.pdb
+E:\Абдрахманов\z6\z6\bin\Debug\z6.exe.config
+E:\Абдрахманов\z6\z6\bin\Debug\z6.exe
+E:\Абдрахманов\z6\z6\bin\Debug\z6.pdb
+E:\Абдрахманов\z6\z6\obj\Debug\z6.csprojAssemblyReference.cache
+E:\Абдрахманов\z6\z6\obj\Debug\z6.Form1.resources
+E:\Абдрахманов\z6\z6\obj\Debug\z6.Properties.Resources.resources
+E:\Абдрахманов\z6\z6\obj\Debug\z6.csproj.GenerateResource.cache
+E:\Абдрахманов\z6\z6\obj\Debug\z6.csproj.CoreCompileInputs.cache
+E:\Абдрахманов\z6\z6\obj\Debug\z6.exe
+E:\Абдрахманов\z6\z6\obj\Debug\z6.pdb
+F:\Абдрахманов\z6\z6\bin\Debug\z6.exe.config
+F:\Абдрахманов\z6\z6\obj\Debug\z6.exe
+F:\Абдрахманов\z6\z6\obj\Debug\z6.pdb
+F:\Абдрахманов\z6\z6\bin\Debug\z6.exe
+F:\Абдрахманов\z6\z6\bin\Debug\z6.pdb
+F:\Абдрахманов\z6\z6\obj\Debug\z6.csprojResolveAssemblyReference.cache
+F:\Абдрахманов\z6\z6\obj\Debug\z6.Form1.resources
+F:\Абдрахманов\z6\z6\obj\Debug\z6.Properties.Resources.resources
+F:\Абдрахманов\z6\z6\obj\Debug\z6.csproj.GenerateResource.Cache
+D:\Zadanie PP\Абдрахманов\z6\z6\bin\Debug\z6.exe.config
+D:\Zadanie PP\Абдрахманов\z6\z6\obj\Debug\z6.exe
+D:\Zadanie PP\Абдрахманов\z6\z6\obj\Debug\z6.pdb
+D:\Zadanie PP\Абдрахманов\z6\z6\bin\Debug\z6.exe
+D:\Zadanie PP\Абдрахманов\z6\z6\bin\Debug\z6.pdb
+D:\Zadanie PP\Абдрахманов\z6\z6\obj\Debug\z6.csprojResolveAssemblyReference.cache
+D:\Zadanie PP\Абдрахманов\z6\z6\obj\Debug\z6.Form1.resources
+D:\Zadanie PP\Абдрахманов\z6\z6\obj\Debug\z6.Properties.Resources.resources
+D:\Zadanie PP\Абдрахманов\z6\z6\obj\Debug\z6.csproj.GenerateResource.Cache
+E:\Zadanie PP\Абдрахманов\z6\z6\bin\Debug\z6.exe.config
+E:\Zadanie PP\Абдрахманов\z6\z6\obj\Debug\z6.exe
+E:\Zadanie PP\Абдрахманов\z6\z6\obj\Debug\z6.pdb
+F:\Zadanie PP\Абдрахманов\z6\z6\bin\Debug\z6.exe.config
+F:\Zadanie PP\Абдрахманов\z6\z6\obj\Debug\z6.exe
+F:\Zadanie PP\Абдрахманов\z6\z6\obj\Debug\z6.pdb

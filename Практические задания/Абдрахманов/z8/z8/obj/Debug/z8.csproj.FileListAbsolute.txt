@@ -1,0 +1,15 @@
+F:\Абдрахманов\z8\z8\bin\Debug\z8.exe.config
+F:\Абдрахманов\z8\z8\bin\Debug\z8.exe
+F:\Абдрахманов\z8\z8\bin\Debug\z8.pdb
+F:\Абдрахманов\z8\z8\obj\Debug\z8.csprojResolveAssemblyReference.cache
+F:\Абдрахманов\z8\z8\obj\Debug\z8.Form1.resources
+F:\Абдрахманов\z8\z8\obj\Debug\z8.Form2.resources
+F:\Абдрахманов\z8\z8\obj\Debug\z8.Properties.Resources.resources
+F:\Абдрахманов\z8\z8\obj\Debug\z8.csproj.GenerateResource.Cache
+F:\Абдрахманов\z8\z8\obj\Debug\z8.exe
+F:\Абдрахманов\z8\z8\obj\Debug\z8.pdb
+F:\Абдрахманов\z8\z8\obj\Debug\z8.Form3.resources
+F:\Абдрахманов\z8\z8\obj\Debug\z8.Form4.resources
+D:\Zadanie PP\Абдрахманов\z8\z8\bin\Debug\z8.exe.config
+D:\Zadanie PP\Абдрахманов\z8\z8\obj\Debug\z8.exe
+D:\Zadanie PP\Абдрахманов\z8\z8\obj\Debug\z8.pdb

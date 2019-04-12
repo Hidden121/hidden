@@ -1,0 +1,11 @@
+E:\Zadanie PP\Абдрахманов\z18\z18\bin\Debug\z18.exe.config
+E:\Zadanie PP\Абдрахманов\z18\z18\bin\Debug\z18.exe
+E:\Zadanie PP\Абдрахманов\z18\z18\bin\Debug\z18.pdb
+E:\Zadanie PP\Абдрахманов\z18\z18\obj\Debug\z18.csprojResolveAssemblyReference.cache
+E:\Zadanie PP\Абдрахманов\z18\z18\obj\Debug\z18.Form1.resources
+E:\Zadanie PP\Абдрахманов\z18\z18\obj\Debug\z18.Properties.Resources.resources
+E:\Zadanie PP\Абдрахманов\z18\z18\obj\Debug\z18.csproj.GenerateResource.Cache
+E:\Zadanie PP\Абдрахманов\z18\z18\obj\Debug\z18.exe
+E:\Zadanie PP\Абдрахманов\z18\z18\obj\Debug\z18.pdb
+E:\Zadanie PP\Абдрахманов\z18\z18\obj\Debug\z18.Form2.resources
+E:\Zadanie PP\Абдрахманов\z18\z18\obj\Debug\z18.Form3.resources

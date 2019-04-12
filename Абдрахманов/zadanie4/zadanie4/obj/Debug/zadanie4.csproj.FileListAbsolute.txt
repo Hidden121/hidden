@@ -1,0 +1,30 @@
+D:\Документы\study2\Рабочий стол\Абдрахманов\zadanie4\zadanie4\bin\Debug\zadanie4.exe.config
+D:\Документы\study2\Рабочий стол\Абдрахманов\zadanie4\zadanie4\bin\Debug\zadanie4.exe
+D:\Документы\study2\Рабочий стол\Абдрахманов\zadanie4\zadanie4\bin\Debug\zadanie4.pdb
+D:\Документы\study2\Рабочий стол\Абдрахманов\zadanie4\zadanie4\obj\Debug\zadanie4.Form1.resources
+D:\Документы\study2\Рабочий стол\Абдрахманов\zadanie4\zadanie4\obj\Debug\zadanie4.Properties.Resources.resources
+D:\Документы\study2\Рабочий стол\Абдрахманов\zadanie4\zadanie4\obj\Debug\zadanie4.Sledy.resources
+D:\Документы\study2\Рабочий стол\Абдрахманов\zadanie4\zadanie4\obj\Debug\zadanie4.csproj.GenerateResource.Cache
+D:\Документы\study2\Рабочий стол\Абдрахманов\zadanie4\zadanie4\obj\Debug\zadanie4.exe
+D:\Документы\study2\Рабочий стол\Абдрахманов\zadanie4\zadanie4\obj\Debug\zadanie4.pdb
+D:\Документы\study2\Рабочий стол\Абдрахманов\zadanie4\zadanie4\obj\Debug\zadanie4.csprojResolveAssemblyReference.cache
+D:\Абдрахманов\zadanie4\zadanie4\bin\Debug\zadanie4.exe.config
+D:\Абдрахманов\zadanie4\zadanie4\obj\Debug\zadanie4.exe
+D:\Абдрахманов\zadanie4\zadanie4\obj\Debug\zadanie4.pdb
+D:\Абдрахманов\zadanie4\zadanie4\bin\Debug\zadanie4.exe
+D:\Абдрахманов\zadanie4\zadanie4\bin\Debug\zadanie4.pdb
+D:\Абдрахманов\zadanie4\zadanie4\obj\Debug\zadanie4.csprojResolveAssemblyReference.cache
+D:\Абдрахманов\zadanie4\zadanie4\obj\Debug\zadanie4.Form1.resources
+D:\Абдрахманов\zadanie4\zadanie4\obj\Debug\zadanie4.Properties.Resources.resources
+D:\Абдрахманов\zadanie4\zadanie4\obj\Debug\zadanie4.Sledy.resources
+D:\Абдрахманов\zadanie4\zadanie4\obj\Debug\zadanie4.csproj.GenerateResource.Cache
+F:\Абдрахманов\zadanie4\zadanie4\bin\Debug\zadanie4.exe.config
+F:\Абдрахманов\zadanie4\zadanie4\obj\Debug\zadanie4.exe
+F:\Абдрахманов\zadanie4\zadanie4\obj\Debug\zadanie4.pdb
+F:\Абдрахманов\zadanie4\zadanie4\bin\Debug\zadanie4.exe
+F:\Абдрахманов\zadanie4\zadanie4\bin\Debug\zadanie4.pdb
+F:\Абдрахманов\zadanie4\zadanie4\obj\Debug\zadanie4.csprojResolveAssemblyReference.cache
+F:\Абдрахманов\zadanie4\zadanie4\obj\Debug\zadanie4.Form1.resources
+F:\Абдрахманов\zadanie4\zadanie4\obj\Debug\zadanie4.Properties.Resources.resources
+F:\Абдрахманов\zadanie4\zadanie4\obj\Debug\zadanie4.Sledy.resources
+F:\Абдрахманов\zadanie4\zadanie4\obj\Debug\zadanie4.csproj.GenerateResource.Cache

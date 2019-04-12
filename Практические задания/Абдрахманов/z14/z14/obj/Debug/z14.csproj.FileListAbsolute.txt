@@ -1,0 +1,35 @@
+E:\PRVS\Абдрахманов\z14\z14\bin\Debug\z14.exe.config
+E:\PRVS\Абдрахманов\z14\z14\bin\Debug\z14.exe
+E:\PRVS\Абдрахманов\z14\z14\bin\Debug\z14.pdb
+E:\PRVS\Абдрахманов\z14\z14\obj\Debug\z14.csprojResolveAssemblyReference.cache
+E:\PRVS\Абдрахманов\z14\z14\obj\Debug\z14.Form1.resources
+E:\PRVS\Абдрахманов\z14\z14\obj\Debug\z14.Properties.Resources.resources
+E:\PRVS\Абдрахманов\z14\z14\obj\Debug\z14.csproj.GenerateResource.Cache
+E:\PRVS\Абдрахманов\z14\z14\obj\Debug\z14.exe
+E:\PRVS\Абдрахманов\z14\z14\obj\Debug\z14.pdb
+D:\PRVS\Абдрахманов\z14\z14\bin\Debug\z14.exe.config
+D:\PRVS\Абдрахманов\z14\z14\obj\Debug\z14.exe
+D:\PRVS\Абдрахманов\z14\z14\obj\Debug\z14.pdb
+D:\PRVS\Абдрахманов\z14\z14\bin\Debug\z14.exe
+D:\PRVS\Абдрахманов\z14\z14\bin\Debug\z14.pdb
+D:\PRVS\Абдрахманов\z14\z14\obj\Debug\z14.csprojResolveAssemblyReference.cache
+D:\PRVS\Абдрахманов\z14\z14\obj\Debug\z14.Form1.resources
+D:\PRVS\Абдрахманов\z14\z14\obj\Debug\z14.Properties.Resources.resources
+D:\PRVS\Абдрахманов\z14\z14\obj\Debug\z14.csproj.GenerateResource.Cache
+E:\PRVS\Абдрахманов\z14\z14\obj\Debug\z14.Form2.resources
+C:\Users\Stas\Desktop\Zadanie PP\Абдрахманов\z14\z14\bin\Debug\z14.exe.config
+C:\Users\Stas\Desktop\Zadanie PP\Абдрахманов\z14\z14\obj\Debug\z14.exe
+C:\Users\Stas\Desktop\Zadanie PP\Абдрахманов\z14\z14\obj\Debug\z14.pdb
+C:\Users\Stas\Desktop\Zadanie PP\Абдрахманов\z14\z14\obj\Debug\z14.csprojResolveAssemblyReference.cache
+C:\Users\Stas\Desktop\Zadanie PP\Абдрахманов\z14\z14\obj\Debug\z14.Form1.resources
+C:\Users\Stas\Desktop\Zadanie PP\Абдрахманов\z14\z14\obj\Debug\z14.Form2.resources
+C:\Users\Stas\Desktop\Zadanie PP\Абдрахманов\z14\z14\obj\Debug\z14.Properties.Resources.resources
+C:\Users\Stas\Desktop\Zadanie PP\Абдрахманов\z14\z14\obj\Debug\z14.csproj.GenerateResource.Cache
+C:\Users\Stas\Desktop\Zadanie PP\Абдрахманов\z14\z14\bin\Debug\z14.exe
+C:\Users\Stas\Desktop\Zadanie PP\Абдрахманов\z14\z14\bin\Debug\z14.pdb
+E:\Zadanie PP\Абдрахманов\z14\z14\bin\Debug\z14.exe.config
+E:\Zadanie PP\Абдрахманов\z14\z14\obj\Debug\z14.exe
+E:\Zadanie PP\Абдрахманов\z14\z14\obj\Debug\z14.pdb
+F:\Zadanie PP\Абдрахманов\z14\z14\bin\Debug\z14.exe.config
+F:\Zadanie PP\Абдрахманов\z14\z14\obj\Debug\z14.exe
+F:\Zadanie PP\Абдрахманов\z14\z14\obj\Debug\z14.pdb

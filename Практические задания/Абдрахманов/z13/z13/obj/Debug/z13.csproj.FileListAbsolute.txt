@@ -1,0 +1,38 @@
+E:\PRVS\Абдрахманов\z13\z13\bin\Debug\z13.exe.config
+E:\PRVS\Абдрахманов\z13\z13\bin\Debug\z13.exe
+E:\PRVS\Абдрахманов\z13\z13\bin\Debug\z13.pdb
+E:\PRVS\Абдрахманов\z13\z13\obj\Debug\z13.csprojResolveAssemblyReference.cache
+E:\PRVS\Абдрахманов\z13\z13\obj\Debug\z13.Form1.resources
+E:\PRVS\Абдрахманов\z13\z13\obj\Debug\z13.Properties.Resources.resources
+E:\PRVS\Абдрахманов\z13\z13\obj\Debug\z13.csproj.GenerateResource.Cache
+E:\PRVS\Абдрахманов\z13\z13\obj\Debug\z13.exe
+E:\PRVS\Абдрахманов\z13\z13\obj\Debug\z13.pdb
+E:\PRVS\Абдрахманов\z13\z13\obj\Debug\z13.Form2.resources
+E:\PRVS\Абдрахманов\z13\z13\obj\Debug\z13.Form3.resources
+D:\PRVS\Абдрахманов\z13\z13\bin\Debug\z13.exe.config
+D:\PRVS\Абдрахманов\z13\z13\obj\Debug\z13.exe
+D:\PRVS\Абдрахманов\z13\z13\obj\Debug\z13.pdb
+D:\PRVS\Абдрахманов\z13\z13\bin\Debug\z13.exe
+D:\PRVS\Абдрахманов\z13\z13\bin\Debug\z13.pdb
+D:\PRVS\Абдрахманов\z13\z13\obj\Debug\z13.csprojResolveAssemblyReference.cache
+D:\PRVS\Абдрахманов\z13\z13\obj\Debug\z13.Form1.resources
+D:\PRVS\Абдрахманов\z13\z13\obj\Debug\z13.Form2.resources
+D:\PRVS\Абдрахманов\z13\z13\obj\Debug\z13.Form3.resources
+D:\PRVS\Абдрахманов\z13\z13\obj\Debug\z13.Form4.resources
+D:\PRVS\Абдрахманов\z13\z13\obj\Debug\z13.Properties.Resources.resources
+D:\PRVS\Абдрахманов\z13\z13\obj\Debug\z13.csproj.GenerateResource.Cache
+E:\Zadanie PP\Абдрахманов\z13\z13\bin\Debug\z13.exe.config
+E:\Zadanie PP\Абдрахманов\z13\z13\obj\Debug\z13.exe
+E:\Zadanie PP\Абдрахманов\z13\z13\obj\Debug\z13.pdb
+E:\Zadanie PP\Абдрахманов\z13\z13\bin\Debug\z13.exe
+E:\Zadanie PP\Абдрахманов\z13\z13\bin\Debug\z13.pdb
+E:\Zadanie PP\Абдрахманов\z13\z13\obj\Debug\z13.csprojResolveAssemblyReference.cache
+E:\Zadanie PP\Абдрахманов\z13\z13\obj\Debug\z13.Form1.resources
+E:\Zadanie PP\Абдрахманов\z13\z13\obj\Debug\z13.Form2.resources
+E:\Zadanie PP\Абдрахманов\z13\z13\obj\Debug\z13.Form3.resources
+E:\Zadanie PP\Абдрахманов\z13\z13\obj\Debug\z13.Form4.resources
+E:\Zadanie PP\Абдрахманов\z13\z13\obj\Debug\z13.Properties.Resources.resources
+E:\Zadanie PP\Абдрахманов\z13\z13\obj\Debug\z13.csproj.GenerateResource.Cache
+D:\Zadanie PP\Абдрахманов\z13\z13\bin\Debug\z13.exe.config
+D:\Zadanie PP\Абдрахманов\z13\z13\obj\Debug\z13.exe
+D:\Zadanie PP\Абдрахманов\z13\z13\obj\Debug\z13.pdb

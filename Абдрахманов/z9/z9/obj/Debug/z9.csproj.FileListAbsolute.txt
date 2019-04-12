@@ -1,0 +1,10 @@
+F:\Абдрахманов\z9\z9\bin\Debug\z9.exe.config
+F:\Абдрахманов\z9\z9\bin\Debug\z9.exe
+F:\Абдрахманов\z9\z9\bin\Debug\z9.pdb
+F:\Абдрахманов\z9\z9\obj\Debug\z9.csprojResolveAssemblyReference.cache
+F:\Абдрахманов\z9\z9\obj\Debug\z9.Form1.resources
+F:\Абдрахманов\z9\z9\obj\Debug\z9.Properties.Resources.resources
+F:\Абдрахманов\z9\z9\obj\Debug\z9.csproj.GenerateResource.Cache
+F:\Абдрахманов\z9\z9\obj\Debug\z9.exe
+F:\Абдрахманов\z9\z9\obj\Debug\z9.pdb
+F:\Абдрахманов\z9\z9\obj\Debug\z9.Form2.resources

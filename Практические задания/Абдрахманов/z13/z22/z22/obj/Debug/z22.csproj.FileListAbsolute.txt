@@ -1,0 +1,10 @@
+F:\Zadanie PP\Абдрахманов\z22\z22\bin\Debug\z22.exe.config
+D:\Zadanie PP\Абдрахманов\z22\z22\bin\Debug\z22.exe.config
+D:\Zadanie PP\Абдрахманов\z22\z22\bin\Debug\z22.exe
+D:\Zadanie PP\Абдрахманов\z22\z22\bin\Debug\z22.pdb
+D:\Zadanie PP\Абдрахманов\z22\z22\obj\Debug\z22.csprojResolveAssemblyReference.cache
+D:\Zadanie PP\Абдрахманов\z22\z22\obj\Debug\z22.Form1.resources
+D:\Zadanie PP\Абдрахманов\z22\z22\obj\Debug\z22.Properties.Resources.resources
+D:\Zadanie PP\Абдрахманов\z22\z22\obj\Debug\z22.csproj.GenerateResource.Cache
+D:\Zadanie PP\Абдрахманов\z22\z22\obj\Debug\z22.exe
+D:\Zadanie PP\Абдрахманов\z22\z22\obj\Debug\z22.pdb

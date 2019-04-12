@@ -1,0 +1,26 @@
+F:\Абдрахманов\z11\z11\bin\Debug\z11.exe.config
+F:\Абдрахманов\z11\z11\obj\Debug\z11.csprojResolveAssemblyReference.cache
+F:\Абдрахманов\z11\z11\obj\Debug\z11.Form1.resources
+F:\Абдрахманов\z11\z11\obj\Debug\z11.Properties.Resources.resources
+F:\Абдрахманов\z11\z11\obj\Debug\z11.csproj.GenerateResource.Cache
+F:\Абдрахманов\z11\z11\bin\Debug\z11.exe
+F:\Абдрахманов\z11\z11\bin\Debug\z11.pdb
+F:\Абдрахманов\z11\z11\obj\Debug\z11.exe
+F:\Абдрахманов\z11\z11\obj\Debug\z11.pdb
+F:\Абдрахманов\z11\z11\obj\Debug\z11.Form2.resources
+F:\Абдрахманов\z11\z11\obj\Debug\z11.Form3.resources
+C:\Users\Stas\Desktop\PRVS\Абдрахманов\z11\z11\bin\Debug\z11.exe.config
+C:\Users\Stas\Desktop\PRVS\Абдрахманов\z11\z11\obj\Debug\z11.exe
+C:\Users\Stas\Desktop\PRVS\Абдрахманов\z11\z11\obj\Debug\z11.csprojResolveAssemblyReference.cache
+C:\Users\Stas\Desktop\PRVS\Абдрахманов\z11\z11\obj\Debug\z11.Form1.resources
+C:\Users\Stas\Desktop\PRVS\Абдрахманов\z11\z11\obj\Debug\z11.Form2.resources
+C:\Users\Stas\Desktop\PRVS\Абдрахманов\z11\z11\obj\Debug\z11.Form3.resources
+C:\Users\Stas\Desktop\PRVS\Абдрахманов\z11\z11\obj\Debug\z11.Properties.Resources.resources
+C:\Users\Stas\Desktop\PRVS\Абдрахманов\z11\z11\obj\Debug\z11.csproj.GenerateResource.Cache
+C:\Users\Stas\Desktop\PRVS\Абдрахманов\z11\z11\bin\Debug\z11.exe
+C:\Users\Stas\Desktop\PRVS\Абдрахманов\z11\z11\bin\Debug\z11.pdb
+C:\Users\Stas\Desktop\PRVS\Абдрахманов\z11\z11\obj\Debug\z11.pdb
+C:\Users\Stas\Desktop\PRVS\Абдрахманов\z11\z11\obj\Debug\z11.Form4.resources
+D:\Zadanie PP\Абдрахманов\z11\z11\bin\Debug\z11.exe.config
+D:\Zadanie PP\Абдрахманов\z11\z11\obj\Debug\z11.exe
+D:\Zadanie PP\Абдрахманов\z11\z11\obj\Debug\z11.pdb
